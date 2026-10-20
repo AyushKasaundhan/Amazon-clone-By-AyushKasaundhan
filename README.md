@@ -60,10 +60,13 @@ To run this project locally:
 
 - GitHub: https://github.com/AyushKasaundhan
 
+- 
+Note: This project is currently optimized for desktop viewing. Improving mobile responsiveness and cross-device compatibility is a part of my future development goals.
+
+
 ## ⚠️ Disclaimer
 
 This project is created for educational and learning purposes only. Amazon is a trademark of Amazon.com, Inc. This project is not affiliated with or endorsed by Amazon.
-
 ---
 
 ⭐ If you like this project, consider giving the repository a star!
